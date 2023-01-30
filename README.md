@@ -1,15 +1,16 @@
 ### Hi there, I'm Charlene 👋🏼
 
  ### 🌱 I’m currently learning Full-Stack Development and AWS Cloud
+ 
  ### 🛼 Fun facts: 
  - 🌏 I have lived in 3 countries/continents and speak 4 languages (guess?)
  - 💬 I can name all the bones (and a good amount of muscles) in the human body
  - 🪷 When I'm not online, I'm probably:
-  - reading
-  - playing instruments
-  - cooking
-  - eating
-  - taking care of my plant babies
+   - reading
+   - playing instruments
+   - cooking
+   - eating
+   - taking care of my plant babies
  
  ### 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/cjlava/)
 
