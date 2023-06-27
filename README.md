@@ -1,6 +1,4 @@
 ## Hi there, I'm Charlene 👋🏼
-
- ### 🌱 I’m currently learning Full-Stack Development and AWS Cloud
  
  ### 🛼 Fun facts: 
  - 🌏 I have lived in **3 countries/continents** and speak **4 languages** (guess?)
